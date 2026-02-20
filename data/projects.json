@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1740045001001,
+    "name": "StudyFreaks",
+    "stack": "React, Tailwind, JS",
+    "desc": "A premium education platform for students in Hailakandi, Assam. Features specialized prep modules for CBSE, ASSEB, and JNVST entrance exams with a focus on high-speed performance.",
+    "github": "https://github.com/tawhid012/StudyFreaks",
+    "live": "https://studyfreaks.netlify.app",
+    "image": "https://i.ibb.co/Rk7RFPbS/1-1.jpg"
+  },
+  {
+    "id": 1740045001002,
+    "name": "Neural Inventory Manager",
+    "stack": "Python, Odoo, PostgreSQL",
+    "desc": "An intelligent ERP solution built on Odoo for local businesses. Automates inventory tracking and uses Python scripts to predict stock-out events based on historical sales data.",
+    "github": "https://github.com/tawhid012/inventory-ai",
+    "live": "#",
+    "image": "https://i.ibb.co/L9Y0XyZ/inventory-erp.jpg"
+  },
+  {
+    "id": 1740045001003,
+    "name": "Crypto-Signal Architect",
+    "stack": "Firebase, React, Tailwind",
+    "desc": "A real-time dashboard that pulls data from crypto exchanges. It uses Firebase Cloud Functions to push instant alerts to users when specific technical patterns are detected.",
+    "github": "https://github.com/tawhid012/crypto-signals",
+    "live": "#",
+    "image": "https://i.ibb.co/m0f2p3K/crypto-dashboard.jpg"
+  },
+  {
+    "id": 1740045001004,
+    "name": "The Trading Blueprint",
+    "stack": "Python, Technical Writing, SEO",
+    "desc": "A digital ecosystem for a 200-page trading guide. Includes an interactive table of contents, high-fidelity chart renders, and an automated delivery system for premium members.",
+    "github": "#",
+    "live": "#",
+    "image": "https://i.ibb.co/4P2p8kL/trading-guide.jpg"
+  },
+  {
+    "id": 1740045001004,
+    "name": "The Trading Blueprint",
+    "stack": "Python, Technical Writing, SEO",
+    "desc": "A digital ecosystem for a 200-page trading guide. Includes an interactive table of contents, high-fidelity chart renders, and an automated delivery system for premium members.",
+    "github": "#",
+    "live": "#",
+    "image": "https://i.ibb.co/4P2p8kL/trading-guide.jpg"
+  }
+]
