@@ -16,5 +16,14 @@
   "github": "https://github.com/tawhid012",
   "live": "https://enlightcoaching.netlify.app",
   "image": "https://iili.io/qqELN6u.md.png"
+},
+  {
+  "id": 1773065229487,
+  "name": "Mariam Juice Cafe",
+  "stack": "React, Python, Tailwind",
+  "desc": "Mariam Juice Cafe (MJC) – Website\nDeveloped a modern, responsive website for Mariam Juice Cafe to showcase their menu and improve their online presence. The site features a dynamic menu connected to a Supabase database with an admin panel for easy updates. Built with a focus on speed, simplicity, and mobile-friendly design.",
+  "github": "https://github.com/tawhid012",
+  "live": "https://mariamjuicecafe.netlify.app",
+  "image": "https://i.postimg.cc/h4XwtXmf/Screenshot-2026-03-09-at-7-36-40-PM.png"
 }
 ]
