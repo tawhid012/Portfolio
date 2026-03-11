@@ -1,5 +1,14 @@
 [
   {
+  "id": 1773220852602,
+  "name": "Reflex Protocol",
+  "stack": "React, Python, Tailwind",
+  "desc": "A modern Web3 staking dashboard showcasing a decentralized yield protocol with fixed APR, on-chain vault mechanics, and real-time reward calculations",
+  "github": "https://github.com/tawhid012/reflexprotocol",
+  "live": "https://reflexprotocol.netlify.app",
+  "image": "https://i.postimg.cc/j23MHpFb/Screenshot-2026-03-11-at-2-50-37-PM.png"
+},
+  {
     "id": 1740045001001,
     "name": "StudyFreaks",
     "stack": "React, Tailwind, JS",
