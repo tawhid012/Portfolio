@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Block unnecessary system folders
+Disallow: /admin/
+Disallow: /.netlify/
+Disallow: /private/
+
+# Sitemap location
+Sitemap: https://tawhid-laskar.netlify.app/sitemap.xml
