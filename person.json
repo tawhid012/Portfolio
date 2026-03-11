@@ -1,0 +1,28 @@
+{
+  "name": "Tawhidur Rahman Laskar",
+  "alternateNames": [
+    "Tawhid Laskar",
+    "Tawhidur Rahman",
+    "Tawhidur"
+  ],
+  "description": "Young full stack web developer from Hailakandi, Assam and founder of Limux Agency.",
+  "jobTitle": "Full Stack Developer",
+  "founderOf": "Limux Agency",
+  "location": "Hailakandi, Assam, India",
+  "startedCoding": "2021",
+  "skills": [
+    "JavaScript",
+    "React",
+    "Python",
+    "UI UX Design",
+    "SEO",
+    "Web Development"
+  ],
+  "website": "https://tawhid-laskar.netlify.app",
+  "profiles": {
+    "github": "https://github.com/tawhid012",
+    "devto": "https://dev.to/tawhid_laskar",
+    "freelancer": "https://www.freelancer.com/u/tawhidlxr",
+    "instagram": "https://instagram.com/tawheed.xds"
+  }
+}
