@@ -1,5 +1,14 @@
 [
   {
+  "id": 1774618895969,
+  "name": "Fragstrail",
+  "stack": "React , Python , Js , Tailwind , Supabase",
+  "desc": "Leave a Trail.Curated luxury fragrances, decanted meticulously. Experience the world's most exclusive niche and designer scents without the full-bottle commitment.",
+  "github": "https://github.com/tawhid012",
+  "live": "https://shiny-gumdrop-9f8398.netlify.app/#how-it-works",
+  "image": "https://i.postimg.cc/66m6J0my/Screenshot-2026-03-27-at-7-11-17-PM.png"
+},
+  {
   "id": 1774617524082,
   "name": "FeePilot",
   "stack": "React, Tailwind, JS, Supabase",
