@@ -1,5 +1,14 @@
 [
   {
+  "id": 1774617524082,
+  "name": "FeePilot",
+  "stack": "React, Tailwind, JS, Supabase",
+  "desc": "FeePilot is a SaaS web application designed to simplify tuition fee collection for tutors and coaching centers. It enables educators to manage students, track payments, and send automated fee reminders to parents via WhatsApp, reducing the need for manual follow-ups and improving payment consistency.\n\nThe platform provides a centralized dashboard where tutors can add and manage student records, monitor payment statuses, and generate UPI-based payment links for seamless transactions. FeePilot also includes automated workflows for sending reminders and recording payment activity, along with an admin panel to oversee user activity, subscriptions, and system-wide data.\n\nBuilt with a mobile-first, user-friendly interface, FeePilot focuses on simplicity, efficiency, and reliability, making it accessible for non-technical users while maintaining a scalable architecture for future enhancements.",
+  "github": "https://github.com/tawhid012/FeePilot",
+  "live": "https://feepilot.netlify.app",
+  "image": "https://i.postimg.cc/SQ7bSGRN/Screenshot-2026-03-27-at-6-48-28-PM.png"
+}
+  {
   "id": 1773220852602,
   "name": "Reflex Protocol",
   "stack": "React, Python, Tailwind",
